@@ -274,7 +274,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/facebook/react-native.git"
+    "url": "git+https://github.com/KimWoogie/react-native-0-59-8-forked.git"
   },
   "scripts": {
     "build-ios-e2e": "detox build -c ios.sim.release",
